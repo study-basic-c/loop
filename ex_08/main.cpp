@@ -1,6 +1,18 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
+
+/*
+**************************************************
+Viết chương trình in ra màn hình hình chữ nhật đặc 
+kích thước m × n.Ví dụ : Nhập m = 5; n = 4
+* * * *
+* * * *
+* * * *
+* * * *
+* * * * 
+************************************************** 
+*/
 
 int main() {
 	int vertical;
