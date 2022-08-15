@@ -1,6 +1,9 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
+
+//Viết chương trình nhập số nguyên dương n.
+//Liệt kê n số nguyên tố đầu tiên
 
 bool PrNumber(int number) {
 	for (int i = 2; i < number; i++) {
