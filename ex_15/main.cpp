@@ -3,7 +3,7 @@
 using namespace std;
 
 //Viết chương trình nhập vào hai số nguyên dương a và b.
-//Tìm ước số chung lớn nhất và bội số chung nhỏ nhất của a và b
+//Tìm ước số chung lớn nhất và bội số chung nhỏ nhất của a và b.
 int BCNN(int iA, int iB) {
 	int i;
 	i = iA;
